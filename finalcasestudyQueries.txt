@@ -1,0 +1,32 @@
+create database mydb;
+use mydb;
+create table admin(adminid varchar(20),adminpassword varchar(20),adminroleid int,adminemailid varchar(20),admincontactnumber varchar(30));
+select * from admin;
+drop table admin;
+desc admin;
+
+create table student(studentid int primary key,studentpassword varchar(20),studentroleid int,studentemailid varchar(20),studentcontactnumber varchar(30));
+select * from student;
+drop table student;
+desc student;
+
+create table bookdetails(bookname varchar(30),isbn int primary key,author varchar(30),publisher varchar(30),edition int,price int,quantity int);
+select * from bookdetails;
+desc bookdetails;
+
+create table requestbook(studentid int,foreign key(studentid) references student(studentid),isbn int,foreign key(isbn) references bookdetails(isbn),requestbook varchar(20),requestdate date);
+select * from requestbook;
+desc requestbook;
+drop table requestbook;
+
+create table cancelbook(studentid int,foreign key(studentid) references student(studentid),isbn int,foreign key(isbn) references bookdetails(isbn),cancelbook varchar(20),canceldate date);
+select * from cancelbook;
+desc cancelbook;
+drop table cancelbook;
+
+create table returnbook(studentid int,foreign key(studentid) references student(studentid),isbn int,foreign key(isbn) references bookdetails(isbn), returnbook varchar(20),returndate date);
+select * from returnbook;
+drop table returnbook;
+desc returnbook;
+
+
