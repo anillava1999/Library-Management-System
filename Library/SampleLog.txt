@@ -1,0 +1,708 @@
+2022-02-02 19:07:44 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@76f0467d, deletestudent=com.lms.training.web.handlers.DeleteStudent@4a96a4c3, adminlogin=com.lms.training.web.handlers.AdminLogin@4409264, returnbook=com.lms.training.web.handlers.GetReturnBook@6e60111d, deletebook=com.lms.training.web.handlers.DeleteBook@1a577102, updatestudent=com.lms.training.web.handlers.UpdateStudent@65986e37, requestbook=com.lms.training.web.handlers.GetRequestBook@65cb1352, updatebook=com.lms.training.web.handlers.UpdateBook@b4d0e0f, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@2ab3b105, addbooks=com.lms.training.web.handlers.AddBooks@c7c8bb2, studentlogin=com.lms.training.web.handlers.StudentLogin@311058ec, cancelbook=com.lms.training.web.handlers.GetCancelBook@524e15b7, adminregister=com.lms.training.web.handlers.AdminRegister@65c2bd62}
+ 2022-02-02 19:07:44 INFO com.lms.mvc.MvcController:39 - requestbook
+ 2022-02-02 19:10:23 INFO com.lms.mvc.MvcController:39 - requestbook
+ 2022-02-02 19:25:14 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 19:25:14 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 19:25:14 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 19:26:02 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@125f29ac, deletestudent=com.lms.training.web.handlers.DeleteStudent@435f3339, adminlogin=com.lms.training.web.handlers.AdminLogin@790e7566, returnbook=com.lms.training.web.handlers.GetReturnBook@2d4e6589, deletebook=com.lms.training.web.handlers.DeleteBook@46373bc5, updatestudent=com.lms.training.web.handlers.UpdateStudent@7ccb0ec1, requestbook=com.lms.training.web.handlers.GetRequestBook@7664e17b, updatebook=com.lms.training.web.handlers.UpdateBook@2858a013, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@574e5fce, addbooks=com.lms.training.web.handlers.AddBooks@73d7fee0, studentlogin=com.lms.training.web.handlers.StudentLogin@22e9b6d8, cancelbook=com.lms.training.web.handlers.GetCancelBook@4f5cc2ae, adminregister=com.lms.training.web.handlers.AdminRegister@6a4954a4}
+ 2022-02-02 19:26:02 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 19:27:16 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@600762b, deletestudent=com.lms.training.web.handlers.DeleteStudent@383f381, adminlogin=com.lms.training.web.handlers.AdminLogin@63da7e57, returnbook=com.lms.training.web.handlers.GetReturnBook@26fab337, deletebook=com.lms.training.web.handlers.DeleteBook@23ce28ed, updatestudent=com.lms.training.web.handlers.UpdateStudent@3fcdd8ee, requestbook=com.lms.training.web.handlers.GetRequestBook@f552186, updatebook=com.lms.training.web.handlers.UpdateBook@7cc54850, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@2e9e9e65, addbooks=com.lms.training.web.handlers.AddBooks@7f4539f0, studentlogin=com.lms.training.web.handlers.StudentLogin@59ba6e8f, cancelbook=com.lms.training.web.handlers.GetCancelBook@feb2a20, adminregister=com.lms.training.web.handlers.AdminRegister@555ce00e}
+ 2022-02-02 19:27:16 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 19:27:30 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 19:27:31 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 19:27:31 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 19:28:02 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@66f01668, deletestudent=com.lms.training.web.handlers.DeleteStudent@c0f9731, adminlogin=com.lms.training.web.handlers.AdminLogin@1558439, returnbook=com.lms.training.web.handlers.GetReturnBook@36838eb7, deletebook=com.lms.training.web.handlers.DeleteBook@50a68d59, updatestudent=com.lms.training.web.handlers.UpdateStudent@20603e63, requestbook=com.lms.training.web.handlers.GetRequestBook@db9121a, updatebook=com.lms.training.web.handlers.UpdateBook@27e5d32c, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@43cd4ecc, addbooks=com.lms.training.web.handlers.AddBooks@62fff3f0, studentlogin=com.lms.training.web.handlers.StudentLogin@27130477, cancelbook=com.lms.training.web.handlers.GetCancelBook@2ee6cf0a, adminregister=com.lms.training.web.handlers.AdminRegister@7744f34}
+ 2022-02-02 19:28:02 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 19:28:03 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 19:28:03 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 19:30:15 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@7f8894eb, deletestudent=com.lms.training.web.handlers.DeleteStudent@6f9ef330, adminlogin=com.lms.training.web.handlers.AdminLogin@5297ee2a, returnbook=com.lms.training.web.handlers.GetReturnBook@59b3f60f, deletebook=com.lms.training.web.handlers.DeleteBook@62a71e1e, updatestudent=com.lms.training.web.handlers.UpdateStudent@7ab86609, requestbook=com.lms.training.web.handlers.GetRequestBook@173331ca, updatebook=com.lms.training.web.handlers.UpdateBook@51f6bead, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@bfb1d63, addbooks=com.lms.training.web.handlers.AddBooks@32caaa3b, studentlogin=com.lms.training.web.handlers.StudentLogin@3cf970c9, cancelbook=com.lms.training.web.handlers.GetCancelBook@589eb22d, adminregister=com.lms.training.web.handlers.AdminRegister@bddbc58}
+ 2022-02-02 19:30:15 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 19:30:15 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 19:30:15 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 19:30:27 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 19:30:27 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 19:30:27 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 19:31:33 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 19:31:33 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 19:31:33 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 19:32:06 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 19:32:06 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 19:32:06 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 19:32:21 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 19:32:21 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 19:32:21 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 19:32:35 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 19:32:35 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 19:32:35 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 19:32:36 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 19:32:36 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 19:32:36 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 19:32:47 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 19:32:47 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 19:32:47 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 19:33:02 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 19:33:02 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 19:33:02 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:51:05 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:51:05 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:51:05 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:51:27 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:51:27 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:51:27 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:51:28 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:51:28 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:51:28 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:51:29 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:51:29 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:51:29 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:51:30 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:51:30 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:51:30 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:51:49 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:51:49 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:51:49 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:51:50 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:51:50 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:51:50 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:52:13 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@735f5325, deletestudent=com.lms.training.web.handlers.DeleteStudent@a6682fa, adminlogin=com.lms.training.web.handlers.AdminLogin@2fa9dfdc, returnbook=com.lms.training.web.handlers.GetReturnBook@5d5fc32, deletebook=com.lms.training.web.handlers.DeleteBook@c1a41d6, updatestudent=com.lms.training.web.handlers.UpdateStudent@32d563fd, requestbook=com.lms.training.web.handlers.GetRequestBook@53631d44, updatebook=com.lms.training.web.handlers.UpdateBook@79fd4f76, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@2737b56e, addbooks=com.lms.training.web.handlers.AddBooks@3ee4f0fe, studentlogin=com.lms.training.web.handlers.StudentLogin@7526435b, cancelbook=com.lms.training.web.handlers.GetCancelBook@66b33476, adminregister=com.lms.training.web.handlers.AdminRegister@7cb5610b}
+ 2022-02-02 20:52:13 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:52:14 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:52:14 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:52:38 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:52:38 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:52:38 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:52:46 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:52:46 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:52:46 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 20:53:45 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:54:03 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:54:03 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:54:03 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 20:55:11 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:55:11 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:55:11 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 20:56:41 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:56:41 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:56:41 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 20:56:59 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:56:59 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:56:59 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 20:57:00 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:57:00 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:57:00 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 20:57:01 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:57:01 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:57:01 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 20:57:37 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:57:37 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:57:37 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 20:57:51 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:57:51 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:57:51 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:58:25 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:58:25 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:58:25 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:58:45 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:58:45 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:58:45 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:58:48 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:58:48 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:58:48 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:58:59 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:58:59 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:58:59 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:59:00 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 20:59:00 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 20:59:00 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 20:59:03 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:59:03 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:59:03 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 20:59:04 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:59:04 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:59:04 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 20:59:05 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:59:05 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:59:05 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 20:59:06 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:59:06 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:59:06 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 20:59:18 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:59:18 INFO com.lms.training.web.handlers.StudentLogin:46 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-02 20:59:18 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login 0
+ 2022-02-02 20:59:19 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:59:24 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:59:24 INFO com.lms.training.web.handlers.StudentLogin:46 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-02 20:59:24 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login 0
+ 2022-02-02 20:59:46 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:59:53 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 20:59:53 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 20:59:53 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 21:00:43 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 21:00:43 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 21:00:43 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 21:00:50 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 21:00:50 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 21:00:50 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 21:11:01 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 21:11:01 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 21:11:01 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 21:16:15 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 21:16:15 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 21:16:15 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 21:17:07 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 21:17:07 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 21:17:07 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 21:17:35 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@7bb9629f, deletestudent=com.lms.training.web.handlers.DeleteStudent@47686b48, adminlogin=com.lms.training.web.handlers.AdminLogin@5cda8a45, returnbook=com.lms.training.web.handlers.GetReturnBook@425301f8, deletebook=com.lms.training.web.handlers.DeleteBook@724e3eb7, updatestudent=com.lms.training.web.handlers.UpdateStudent@7678399d, requestbook=com.lms.training.web.handlers.GetRequestBook@7ef80db5, updatebook=com.lms.training.web.handlers.UpdateBook@247e8f53, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@2746b6ed, addbooks=com.lms.training.web.handlers.AddBooks@10c5c749, studentlogin=com.lms.training.web.handlers.StudentLogin@2e6ee541, cancelbook=com.lms.training.web.handlers.GetCancelBook@7ebae3c8, adminregister=com.lms.training.web.handlers.AdminRegister@6cd9c32c}
+ 2022-02-02 21:17:35 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 21:17:36 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 21:17:36 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 21:17:53 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 21:17:53 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 21:17:53 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 21:21:22 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 21:21:22 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 21:21:22 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 21:25:03 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@7ee5c754, deletestudent=com.lms.training.web.handlers.DeleteStudent@5787af7b, adminlogin=com.lms.training.web.handlers.AdminLogin@11c2992, returnbook=com.lms.training.web.handlers.GetReturnBook@fbfb1e9, deletebook=com.lms.training.web.handlers.DeleteBook@5fb0082d, updatestudent=com.lms.training.web.handlers.UpdateStudent@352698d7, requestbook=com.lms.training.web.handlers.GetRequestBook@55166758, updatebook=com.lms.training.web.handlers.UpdateBook@27d4b4ea, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@787a215d, addbooks=com.lms.training.web.handlers.AddBooks@791beea5, studentlogin=com.lms.training.web.handlers.StudentLogin@1f517a79, cancelbook=com.lms.training.web.handlers.GetCancelBook@1da0fe9d, adminregister=com.lms.training.web.handlers.AdminRegister@347944bd}
+ 2022-02-02 21:25:03 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 21:25:04 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 21:25:04 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 21:25:40 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@6bd0c6e5, deletestudent=com.lms.training.web.handlers.DeleteStudent@55ca0844, adminlogin=com.lms.training.web.handlers.AdminLogin@35288b90, returnbook=com.lms.training.web.handlers.GetReturnBook@206c09a9, deletebook=com.lms.training.web.handlers.DeleteBook@4de614af, updatestudent=com.lms.training.web.handlers.UpdateStudent@48ebad7f, requestbook=com.lms.training.web.handlers.GetRequestBook@39eedbf9, updatebook=com.lms.training.web.handlers.UpdateBook@790fbc2c, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@4b18cce, addbooks=com.lms.training.web.handlers.AddBooks@11245972, studentlogin=com.lms.training.web.handlers.StudentLogin@5e5a79bc, cancelbook=com.lms.training.web.handlers.GetCancelBook@5a304087, adminregister=com.lms.training.web.handlers.AdminRegister@526f70f3}
+ 2022-02-02 21:25:40 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 21:25:41 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 21:25:41 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 21:25:53 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-02 21:25:53 INFO com.lms.training.web.handlers.StudentLogin:46 - []
+ 2022-02-02 21:25:53 INFO com.lms.training.web.handlers.StudentLogin:54 - Flag in login -1
+ 2022-02-02 21:26:45 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:28:24 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:29:04 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@20f930b1, deletestudent=com.lms.training.web.handlers.DeleteStudent@193ada7c, adminlogin=com.lms.training.web.handlers.AdminLogin@604b3145, returnbook=com.lms.training.web.handlers.GetReturnBook@64dfd015, deletebook=com.lms.training.web.handlers.DeleteBook@dca1887, updatestudent=com.lms.training.web.handlers.UpdateStudent@42ecca78, requestbook=com.lms.training.web.handlers.GetRequestBook@7b140a79, updatebook=com.lms.training.web.handlers.UpdateBook@61d13276, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@3c8210eb, addbooks=com.lms.training.web.handlers.AddBooks@1899a209, studentlogin=com.lms.training.web.handlers.StudentLogin@438534a1, cancelbook=com.lms.training.web.handlers.GetCancelBook@2b2fec25, adminregister=com.lms.training.web.handlers.AdminRegister@706a4e3}
+ 2022-02-02 21:29:04 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:29:17 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:30:00 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:32:20 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@1d96039b, deletestudent=com.lms.training.web.handlers.DeleteStudent@310480e6, adminlogin=com.lms.training.web.handlers.AdminLogin@48cb993f, returnbook=com.lms.training.web.handlers.GetReturnBook@893c823, deletebook=com.lms.training.web.handlers.DeleteBook@25349871, updatestudent=com.lms.training.web.handlers.UpdateStudent@30222f81, requestbook=com.lms.training.web.handlers.GetRequestBook@24344adb, updatebook=com.lms.training.web.handlers.UpdateBook@32704cae, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@3306bd81, addbooks=com.lms.training.web.handlers.AddBooks@1279c247, studentlogin=com.lms.training.web.handlers.StudentLogin@149d3041, cancelbook=com.lms.training.web.handlers.GetCancelBook@24b80b40, adminregister=com.lms.training.web.handlers.AdminRegister@225440e3}
+ 2022-02-02 21:32:20 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:32:22 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 21:32:22 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 21:34:50 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:34:50 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 21:34:50 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 21:35:37 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:35:37 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 21:35:37 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 21:36:30 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:36:30 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 21:36:30 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 21:39:35 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:40:13 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:40:13 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 21:40:13 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 21:41:13 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:41:13 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 21:41:13 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 21:45:03 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:45:03 INFO com.lms.training.web.handlers.AdminLogin:43 - []
+ 2022-02-02 21:45:03 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login -1
+ 2022-02-02 21:51:12 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 21:51:12 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-02 21:51:12 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-02 21:53:33 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-02 23:04:59 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-02 23:05:23 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-02 23:06:33 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-02 23:07:00 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-02 23:08:06 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-02 23:08:33 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-02 23:10:35 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-02 23:10:35 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-02 23:10:35 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-02 23:11:44 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:11:44 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:12:45 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:12:45 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:14:35 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:14:35 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:16:01 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:16:01 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:17:45 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:17:45 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:18:32 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:18:32 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:18:36 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:18:36 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:19:18 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:19:18 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:22:14 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:22:14 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:22:40 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@2fd1e849, deletestudent=com.lms.training.web.handlers.DeleteStudent@42f07977, adminlogin=com.lms.training.web.handlers.AdminLogin@6d060509, returnbook=com.lms.training.web.handlers.GetReturnBook@4ccaa9c4, deletebook=com.lms.training.web.handlers.DeleteBook@6c7993b4, updatestudent=com.lms.training.web.handlers.UpdateStudent@2d03648d, requestbook=com.lms.training.web.handlers.GetRequestBook@70f00269, updatebook=com.lms.training.web.handlers.UpdateBook@696d113a, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@4929db90, addbooks=com.lms.training.web.handlers.AddBooks@7f38f934, studentlogin=com.lms.training.web.handlers.StudentLogin@fab5ff0, cancelbook=com.lms.training.web.handlers.GetCancelBook@ece7bfe, adminregister=com.lms.training.web.handlers.AdminRegister@93cc4ec}
+ 2022-02-02 23:22:40 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:23:16 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@53d2001c, deletestudent=com.lms.training.web.handlers.DeleteStudent@28de766a, adminlogin=com.lms.training.web.handlers.AdminLogin@70f530af, returnbook=com.lms.training.web.handlers.GetReturnBook@334eef4d, deletebook=com.lms.training.web.handlers.DeleteBook@705fdbd8, updatestudent=com.lms.training.web.handlers.UpdateStudent@2b698e9f, requestbook=com.lms.training.web.handlers.GetRequestBook@72c0a315, updatebook=com.lms.training.web.handlers.UpdateBook@36b01e87, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@383f8292, addbooks=com.lms.training.web.handlers.AddBooks@5fc5ee7c, studentlogin=com.lms.training.web.handlers.StudentLogin@286a269a, cancelbook=com.lms.training.web.handlers.GetCancelBook@1e985136, adminregister=com.lms.training.web.handlers.AdminRegister@5a776b65}
+ 2022-02-02 23:23:16 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:23:17 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:23:30 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:23:30 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:23:57 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:24:43 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:24:43 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:25:00 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:25:00 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:26:27 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:26:27 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:26:45 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@500776db, deletestudent=com.lms.training.web.handlers.DeleteStudent@47cadc61, adminlogin=com.lms.training.web.handlers.AdminLogin@60dcfb1b, returnbook=com.lms.training.web.handlers.GetReturnBook@17a7f87d, deletebook=com.lms.training.web.handlers.DeleteBook@7cfde5fc, updatestudent=com.lms.training.web.handlers.UpdateStudent@6dc507d6, requestbook=com.lms.training.web.handlers.GetRequestBook@6ac63d56, updatebook=com.lms.training.web.handlers.UpdateBook@428a5463, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@514b9bcb, addbooks=com.lms.training.web.handlers.AddBooks@1475cd83, studentlogin=com.lms.training.web.handlers.StudentLogin@4f826ed6, cancelbook=com.lms.training.web.handlers.GetCancelBook@5f3b1209, adminregister=com.lms.training.web.handlers.AdminRegister@52234fe6}
+ 2022-02-02 23:26:45 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:31:29 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@77d76208, deletestudent=com.lms.training.web.handlers.DeleteStudent@4e711705, adminlogin=com.lms.training.web.handlers.AdminLogin@2168b66f, returnbook=com.lms.training.web.handlers.GetReturnBook@c903d11, deletebook=com.lms.training.web.handlers.DeleteBook@401bd9a9, updatestudent=com.lms.training.web.handlers.UpdateStudent@6942790, requestbook=com.lms.training.web.handlers.GetRequestBook@622b32e3, updatebook=com.lms.training.web.handlers.UpdateBook@6fdef302, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@7196a9c1, addbooks=com.lms.training.web.handlers.AddBooks@5699a8c4, studentlogin=com.lms.training.web.handlers.StudentLogin@6d1e24de, cancelbook=com.lms.training.web.handlers.GetCancelBook@75409c9c, adminregister=com.lms.training.web.handlers.AdminRegister@315cfb54}
+ 2022-02-02 23:31:29 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:32:01 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:32:23 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:32:23 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:32:53 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:32:53 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:33:06 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:33:06 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:34:58 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:34:58 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:37:44 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@11c135b, deletestudent=com.lms.training.web.handlers.DeleteStudent@386ff5a3, adminlogin=com.lms.training.web.handlers.AdminLogin@7b613ece, returnbook=com.lms.training.web.handlers.GetReturnBook@67c2663a, deletebook=com.lms.training.web.handlers.DeleteBook@6a53752, updatestudent=com.lms.training.web.handlers.UpdateStudent@41a018c8, requestbook=com.lms.training.web.handlers.GetRequestBook@3345d97c, updatebook=com.lms.training.web.handlers.UpdateBook@47428a98, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@68723a85, addbooks=com.lms.training.web.handlers.AddBooks@29d5091b, studentlogin=com.lms.training.web.handlers.StudentLogin@34c6ab64, cancelbook=com.lms.training.web.handlers.GetCancelBook@6783f12e, adminregister=com.lms.training.web.handlers.AdminRegister@1edc4949}
+ 2022-02-02 23:37:44 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:37:44 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:38:00 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:38:00 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:38:01 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:38:01 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:38:18 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:38:27 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:38:30 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:38:30 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:38:42 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:39:09 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@702c235e, deletestudent=com.lms.training.web.handlers.DeleteStudent@544ed271, adminlogin=com.lms.training.web.handlers.AdminLogin@26c89e1, returnbook=com.lms.training.web.handlers.GetReturnBook@1694549, deletebook=com.lms.training.web.handlers.DeleteBook@104ea0e9, updatestudent=com.lms.training.web.handlers.UpdateStudent@323125cb, requestbook=com.lms.training.web.handlers.GetRequestBook@547491ed, updatebook=com.lms.training.web.handlers.UpdateBook@1f7cc527, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@7a5077c9, addbooks=com.lms.training.web.handlers.AddBooks@41740a35, studentlogin=com.lms.training.web.handlers.StudentLogin@31ff100f, cancelbook=com.lms.training.web.handlers.GetCancelBook@48d3aeea, adminregister=com.lms.training.web.handlers.AdminRegister@31446606}
+ 2022-02-02 23:39:09 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:39:10 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:39:36 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:46:05 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@1bb51190, deletestudent=com.lms.training.web.handlers.DeleteStudent@748fc843, adminlogin=com.lms.training.web.handlers.AdminLogin@6c3e5d19, returnbook=com.lms.training.web.handlers.GetReturnBook@642a548c, deletebook=com.lms.training.web.handlers.DeleteBook@57a0f008, updatestudent=com.lms.training.web.handlers.UpdateStudent@5d67f76f, requestbook=com.lms.training.web.handlers.GetRequestBook@43afaf4f, updatebook=com.lms.training.web.handlers.UpdateBook@75170d82, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@25e78398, addbooks=com.lms.training.web.handlers.AddBooks@47d9d4c4, studentlogin=com.lms.training.web.handlers.StudentLogin@79b2cea7, cancelbook=com.lms.training.web.handlers.GetCancelBook@3484a70e, adminregister=com.lms.training.web.handlers.AdminRegister@2d661945}
+ 2022-02-02 23:46:05 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:46:06 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:46:38 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:47:46 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@406eba82, deletestudent=com.lms.training.web.handlers.DeleteStudent@5bbc195f, adminlogin=com.lms.training.web.handlers.AdminLogin@5f73d2ea, returnbook=com.lms.training.web.handlers.GetReturnBook@dba3da2, deletebook=com.lms.training.web.handlers.DeleteBook@38352c3d, updatestudent=com.lms.training.web.handlers.UpdateStudent@3f8bc85, requestbook=com.lms.training.web.handlers.GetRequestBook@425dca92, updatebook=com.lms.training.web.handlers.UpdateBook@1ed6a856, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@f133b75, addbooks=com.lms.training.web.handlers.AddBooks@4949a286, studentlogin=com.lms.training.web.handlers.StudentLogin@656ce867, cancelbook=com.lms.training.web.handlers.GetCancelBook@4e537884, adminregister=com.lms.training.web.handlers.AdminRegister@588d2aa8}
+ 2022-02-02 23:47:46 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:49:01 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:49:01 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:50:08 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:50:42 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:50:42 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:50:50 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:50:50 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:50:52 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:50:52 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:50:52 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:50:52 INFO com.lms.training.web.handlers.AdminRegister:47 - Admin already registered
+ 2022-02-02 23:51:31 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:56:52 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@36d084f9, deletestudent=com.lms.training.web.handlers.DeleteStudent@38841648, adminlogin=com.lms.training.web.handlers.AdminLogin@36d3216c, returnbook=com.lms.training.web.handlers.GetReturnBook@494f9bea, deletebook=com.lms.training.web.handlers.DeleteBook@7b0a2976, updatestudent=com.lms.training.web.handlers.UpdateStudent@63245609, requestbook=com.lms.training.web.handlers.GetRequestBook@4c53d340, updatebook=com.lms.training.web.handlers.UpdateBook@79f681eb, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@531d563a, addbooks=com.lms.training.web.handlers.AddBooks@1248c64e, studentlogin=com.lms.training.web.handlers.StudentLogin@4053de94, cancelbook=com.lms.training.web.handlers.GetCancelBook@d67e6ac, adminregister=com.lms.training.web.handlers.AdminRegister@34f2cdbc}
+ 2022-02-02 23:56:52 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:57:26 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-02 23:58:56 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@4c519d9, deletestudent=com.lms.training.web.handlers.DeleteStudent@42b34705, adminlogin=com.lms.training.web.handlers.AdminLogin@1cd8cb33, returnbook=com.lms.training.web.handlers.GetReturnBook@423162c9, deletebook=com.lms.training.web.handlers.DeleteBook@6e16b087, updatestudent=com.lms.training.web.handlers.UpdateStudent@3645592f, requestbook=com.lms.training.web.handlers.GetRequestBook@6c1e9d87, updatebook=com.lms.training.web.handlers.UpdateBook@25f09de7, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@7eb99356, addbooks=com.lms.training.web.handlers.AddBooks@62a9318f, studentlogin=com.lms.training.web.handlers.StudentLogin@7ac37af8, cancelbook=com.lms.training.web.handlers.GetCancelBook@5bfdcfe2, adminregister=com.lms.training.web.handlers.AdminRegister@696cc4e8}
+ 2022-02-02 23:58:56 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-03 00:00:30 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@16eb1b8a, deletestudent=com.lms.training.web.handlers.DeleteStudent@18f4b1ca, adminlogin=com.lms.training.web.handlers.AdminLogin@2131e38b, returnbook=com.lms.training.web.handlers.GetReturnBook@d259a80, deletebook=com.lms.training.web.handlers.DeleteBook@435cf7e5, updatestudent=com.lms.training.web.handlers.UpdateStudent@7e9b74a5, requestbook=com.lms.training.web.handlers.GetRequestBook@5018ed46, updatebook=com.lms.training.web.handlers.UpdateBook@71489c5f, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@558fae4c, addbooks=com.lms.training.web.handlers.AddBooks@7014c604, studentlogin=com.lms.training.web.handlers.StudentLogin@6771779d, cancelbook=com.lms.training.web.handlers.GetCancelBook@52eea548, adminregister=com.lms.training.web.handlers.AdminRegister@7a3b8c97}
+ 2022-02-03 00:00:30 INFO com.lms.mvc.MvcController:39 - adminregister
+ 2022-02-03 00:04:56 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@ea74794, deletestudent=com.lms.training.web.handlers.DeleteStudent@2b715452, adminlogin=com.lms.training.web.handlers.AdminLogin@5f63a872, returnbook=com.lms.training.web.handlers.GetReturnBook@18a2c86e, deletebook=com.lms.training.web.handlers.DeleteBook@2c0da709, updatestudent=com.lms.training.web.handlers.UpdateStudent@d7fa51e, requestbook=com.lms.training.web.handlers.GetRequestBook@4f1dbcfb, updatebook=com.lms.training.web.handlers.UpdateBook@4172ecce, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@862e06, addbooks=com.lms.training.web.handlers.AddBooks@70212c5d, studentlogin=com.lms.training.web.handlers.StudentLogin@5279acc6, cancelbook=com.lms.training.web.handlers.GetCancelBook@43b2edb, adminregister=com.lms.training.web.handlers.AdminRegister@35fcc644}
+ 2022-02-03 00:04:56 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-03 00:16:02 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@38944dcc, deletestudent=com.lms.training.web.handlers.DeleteStudent@96a6e05, adminlogin=com.lms.training.web.handlers.AdminLogin@1391f61a, returnbook=com.lms.training.web.handlers.GetReturnBook@75d28a7e, deletebook=com.lms.training.web.handlers.DeleteBook@6fb24325, updatestudent=com.lms.training.web.handlers.UpdateStudent@35721290, requestbook=com.lms.training.web.handlers.GetRequestBook@294f0302, updatebook=com.lms.training.web.handlers.UpdateBook@48afed2f, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@35f93474, addbooks=com.lms.training.web.handlers.AddBooks@103a46c9, studentlogin=com.lms.training.web.handlers.StudentLogin@41bc00df, cancelbook=com.lms.training.web.handlers.GetCancelBook@76cd4b52, adminregister=com.lms.training.web.handlers.AdminRegister@a6b8b6b}
+ 2022-02-03 00:16:02 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-03 00:17:46 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-03 00:21:57 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@569dea53, deletestudent=com.lms.training.web.handlers.DeleteStudent@36c7b849, adminlogin=com.lms.training.web.handlers.AdminLogin@6e8fc89e, returnbook=com.lms.training.web.handlers.GetReturnBook@662ee935, deletebook=com.lms.training.web.handlers.DeleteBook@5f5858d1, updatestudent=com.lms.training.web.handlers.UpdateStudent@5456b683, requestbook=com.lms.training.web.handlers.GetRequestBook@440d5faf, updatebook=com.lms.training.web.handlers.UpdateBook@557b715a, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@48f835f4, addbooks=com.lms.training.web.handlers.AddBooks@297b70c6, studentlogin=com.lms.training.web.handlers.StudentLogin@7a5a261, cancelbook=com.lms.training.web.handlers.GetCancelBook@9daf26e, adminregister=com.lms.training.web.handlers.AdminRegister@42134}
+ 2022-02-03 00:21:57 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-03 00:22:55 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-03 00:24:08 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-03 00:28:56 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@366029ea, deletestudent=com.lms.training.web.handlers.DeleteStudent@2e4e89a1, adminlogin=com.lms.training.web.handlers.AdminLogin@19fe7e2f, returnbook=com.lms.training.web.handlers.GetReturnBook@65d1ca3a, deletebook=com.lms.training.web.handlers.DeleteBook@52498013, updatestudent=com.lms.training.web.handlers.UpdateStudent@810087a, requestbook=com.lms.training.web.handlers.GetRequestBook@62750051, updatebook=com.lms.training.web.handlers.UpdateBook@99e963f, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@17c9c607, addbooks=com.lms.training.web.handlers.AddBooks@1f124f5c, studentlogin=com.lms.training.web.handlers.StudentLogin@55afa367, cancelbook=com.lms.training.web.handlers.GetCancelBook@287de883, adminregister=com.lms.training.web.handlers.AdminRegister@71ddfa75}
+ 2022-02-03 00:28:56 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-03 00:32:58 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@249841e4, deletestudent=com.lms.training.web.handlers.DeleteStudent@728dedfe, adminlogin=com.lms.training.web.handlers.AdminLogin@65f689b, returnbook=com.lms.training.web.handlers.GetReturnBook@3af09d46, deletebook=com.lms.training.web.handlers.DeleteBook@5c817c9d, updatestudent=com.lms.training.web.handlers.UpdateStudent@417e88ee, requestbook=com.lms.training.web.handlers.GetRequestBook@3c982bea, updatebook=com.lms.training.web.handlers.UpdateBook@2bc8b92, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@558e6acc, addbooks=com.lms.training.web.handlers.AddBooks@6002b16b, studentlogin=com.lms.training.web.handlers.StudentLogin@1db801fa, cancelbook=com.lms.training.web.handlers.GetCancelBook@7b3ef9c4, adminregister=com.lms.training.web.handlers.AdminRegister@5d402465}
+ 2022-02-03 00:32:58 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-03 00:33:25 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-03 00:34:59 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@64c15bd0, deletestudent=com.lms.training.web.handlers.DeleteStudent@30f653ca, adminlogin=com.lms.training.web.handlers.AdminLogin@72c31294, returnbook=com.lms.training.web.handlers.GetReturnBook@6e66f2ff, deletebook=com.lms.training.web.handlers.DeleteBook@172b38, updatestudent=com.lms.training.web.handlers.UpdateStudent@27d50f3, requestbook=com.lms.training.web.handlers.GetRequestBook@6840a59a, updatebook=com.lms.training.web.handlers.UpdateBook@31684367, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@81fe099, addbooks=com.lms.training.web.handlers.AddBooks@608dd3a1, studentlogin=com.lms.training.web.handlers.StudentLogin@d0cc65f, cancelbook=com.lms.training.web.handlers.GetCancelBook@7e0cdfe2, adminregister=com.lms.training.web.handlers.AdminRegister@9e0f392}
+ 2022-02-03 00:34:59 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-03 00:35:00 INFO com.lms.training.web.handlers.StudentRegister:45 - Student already registered
+ 2022-02-03 00:38:07 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@1df6f54f, deletestudent=com.lms.training.web.handlers.DeleteStudent@5f3c18e3, adminlogin=com.lms.training.web.handlers.AdminLogin@6699c17c, returnbook=com.lms.training.web.handlers.GetReturnBook@2e884d2d, deletebook=com.lms.training.web.handlers.DeleteBook@47e993e, updatestudent=com.lms.training.web.handlers.UpdateStudent@3bba7252, requestbook=com.lms.training.web.handlers.GetRequestBook@1300d678, updatebook=com.lms.training.web.handlers.UpdateBook@7f8d0010, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@f4ac1b6, addbooks=com.lms.training.web.handlers.AddBooks@670a1aef, studentlogin=com.lms.training.web.handlers.StudentLogin@722ca360, cancelbook=com.lms.training.web.handlers.GetCancelBook@6536a0b5, adminregister=com.lms.training.web.handlers.AdminRegister@3ca88ad4}
+ 2022-02-03 00:38:07 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-03 08:52:39 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@6d57ba07, deletestudent=com.lms.training.web.handlers.DeleteStudent@2aa29722, adminlogin=com.lms.training.web.handlers.AdminLogin@75f5c8db, returnbook=com.lms.training.web.handlers.GetReturnBook@3af7c34d, deletebook=com.lms.training.web.handlers.DeleteBook@6a20c196, updatestudent=com.lms.training.web.handlers.UpdateStudent@54055077, requestbook=com.lms.training.web.handlers.GetRequestBook@f6df93c, updatebook=com.lms.training.web.handlers.UpdateBook@b04ae37, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@6744f2b0, addbooks=com.lms.training.web.handlers.AddBooks@19bc90c7, studentlogin=com.lms.training.web.handlers.StudentLogin@79f82ed5, cancelbook=com.lms.training.web.handlers.GetCancelBook@57a352cb, adminregister=com.lms.training.web.handlers.AdminRegister@1732ebfd}
+ 2022-02-03 08:52:39 INFO com.lms.mvc.MvcController:39 - Viewavailablebook
+ 2022-02-03 09:09:27 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@1932f053, deletestudent=com.lms.training.web.handlers.DeleteStudent@55dcf78d, adminlogin=com.lms.training.web.handlers.AdminLogin@4183406e, returnbook=com.lms.training.web.handlers.GetReturnBook@7029eb83, deletebook=com.lms.training.web.handlers.DeleteBook@7e172dbd, updatestudent=com.lms.training.web.handlers.UpdateStudent@4cc5dd6d, requestbook=com.lms.training.web.handlers.GetRequestBook@179e74ab, updatebook=com.lms.training.web.handlers.UpdateBook@2854f028, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@6fe95a5a, addbooks=com.lms.training.web.handlers.AddBooks@d25cc7f, studentlogin=com.lms.training.web.handlers.StudentLogin@69faca5c, cancelbook=com.lms.training.web.handlers.GetCancelBook@6620a2fb, adminregister=com.lms.training.web.handlers.AdminRegister@433e1fef}
+ 2022-02-03 09:09:27 INFO com.lms.mvc.MvcController:39 - Viewavailablebook
+ 2022-02-03 09:16:32 INFO com.lms.mvc.MvcController:39 - Viewavailablebook
+ 2022-02-03 13:31:29 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@6e1c9abe, deletestudent=com.lms.training.web.handlers.DeleteStudent@14a9ea3d, adminlogin=com.lms.training.web.handlers.AdminLogin@366a2f17, returnbook=com.lms.training.web.handlers.GetReturnBook@57afef34, deletebook=com.lms.training.web.handlers.DeleteBook@5d6c5615, updatestudent=com.lms.training.web.handlers.UpdateStudent@64fb787, requestbook=com.lms.training.web.handlers.GetRequestBook@61ba32ce, updatebook=com.lms.training.web.handlers.UpdateBook@49c4b782, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@76a79c51, addbooks=com.lms.training.web.handlers.AddBooks@d2ffe8d, studentlogin=com.lms.training.web.handlers.StudentLogin@3d3381a4, cancelbook=com.lms.training.web.handlers.GetCancelBook@51274927, adminregister=com.lms.training.web.handlers.AdminRegister@1ba80246}
+ 2022-02-03 13:31:29 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 13:31:31 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 13:31:31 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 13:33:57 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 13:33:57 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 13:33:57 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 13:34:27 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 13:34:27 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 13:34:27 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 13:36:32 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 13:36:32 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 13:36:32 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 13:36:56 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 13:36:56 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 13:36:56 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 13:37:15 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 13:37:15 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 13:37:15 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 13:46:26 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 13:46:26 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 13:46:26 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 13:47:14 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 13:47:14 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 13:47:14 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 13:47:26 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 13:47:26 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 13:47:26 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 13:54:19 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 13:54:19 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 13:54:19 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 13:57:44 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 13:57:44 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 13:57:44 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:00:05 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:00:05 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:00:05 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:00:30 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:00:30 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:00:30 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:00:50 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:00:50 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:00:50 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:01:21 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:01:21 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:01:21 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:02:19 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:02:19 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:02:19 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:02:31 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:02:31 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:02:31 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:02:33 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:02:33 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:02:33 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:02:40 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:02:40 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:02:40 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:02:42 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:02:42 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:02:42 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:02:51 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:02:51 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:02:51 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:03:50 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:03:50 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:03:50 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:04:15 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:04:15 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:04:15 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:04:18 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:04:18 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:04:18 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:04:39 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:04:39 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:04:39 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:04:57 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:04:57 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:04:57 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:05:21 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:05:21 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:05:21 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:05:43 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:05:43 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:05:43 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:06:21 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:06:21 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:06:21 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:08:52 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:08:52 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:08:52 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:09:51 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:09:51 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:09:51 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 14:10:15 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 14:10:15 INFO com.lms.training.web.handlers.AdminLogin:43 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 14:10:15 INFO com.lms.training.web.handlers.AdminLogin:51 - Flag in login 0
+ 2022-02-03 23:32:07 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@b089d89, deletestudent=com.lms.training.web.handlers.DeleteStudent@6fdbe4c8, adminlogin=com.lms.training.web.handlers.AdminLogin@3d37ce9f, returnbook=com.lms.training.web.handlers.GetReturnBook@1c4fcb01, deletebook=com.lms.training.web.handlers.DeleteBook@5364e9d4, updatestudent=com.lms.training.web.handlers.UpdateStudent@63a9bad4, requestbook=com.lms.training.web.handlers.GetRequestBook@60e9c308, updatebook=com.lms.training.web.handlers.UpdateBook@21c1bd7, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@76426809, addbooks=com.lms.training.web.handlers.RegisterBooks@5813130f, studentlogin=com.lms.training.web.handlers.StudentLogin@76cc7a86, cancelbook=com.lms.training.web.handlers.GetCancelBook@146c052b, adminregister=com.lms.training.web.handlers.AdminRegister@718b358f}
+ 2022-02-03 23:32:07 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-03 23:32:09 INFO com.lms.training.web.handlers.AdminLogin:35 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-03 23:32:09 INFO com.lms.training.web.handlers.AdminLogin:43 - Flag in login 0
+ 2022-02-03 23:33:40 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-03 23:34:07 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-03 23:34:44 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-03 23:35:56 INFO com.lms.mvc.MvcController:39 - updatebook
+ 2022-02-03 23:36:09 INFO com.lms.mvc.MvcController:39 - updatebook
+ 2022-02-03 23:36:35 INFO com.lms.mvc.MvcController:39 - deletebook
+ 2022-02-03 23:36:43 INFO com.lms.mvc.MvcController:39 - deletebook
+ 2022-02-03 23:37:28 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-03 23:38:12 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-03 23:38:12 INFO com.lms.training.web.handlers.StudentRegister:51 - Student already registered
+ 2022-02-03 23:38:41 INFO com.lms.mvc.MvcController:39 - updatestudent
+ 2022-02-03 23:40:19 INFO com.lms.mvc.MvcController:39 - updatestudent
+ 2022-02-03 23:40:30 INFO com.lms.mvc.MvcController:39 - updatestudent
+ 2022-02-03 23:40:31 INFO com.lms.mvc.MvcController:39 - updatestudent
+ 2022-02-03 23:40:31 INFO com.lms.mvc.MvcController:39 - updatestudent
+ 2022-02-03 23:40:48 INFO com.lms.mvc.MvcController:39 - updatestudent
+ 2022-02-03 23:40:57 INFO com.lms.mvc.MvcController:39 - updatestudent
+ 2022-02-03 23:41:39 INFO com.lms.mvc.MvcController:39 - deletestudent
+ 2022-02-03 23:42:01 INFO com.lms.mvc.MvcController:39 - deletestudent
+ 2022-02-03 23:45:39 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-03 23:48:21 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@5d7038eb, deletestudent=com.lms.training.web.handlers.DeleteStudent@4fb91044, adminlogin=com.lms.training.web.handlers.AdminLogin@55b8102f, returnbook=com.lms.training.web.handlers.GetReturnBook@5c6bbe7d, deletebook=com.lms.training.web.handlers.DeleteBook@727b, updatestudent=com.lms.training.web.handlers.UpdateStudent@73c790f, requestbook=com.lms.training.web.handlers.GetRequestBook@129028af, updatebook=com.lms.training.web.handlers.UpdateBook@1389f4d6, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@1019cf76, addbooks=com.lms.training.web.handlers.RegisterBooks@7409387b, studentlogin=com.lms.training.web.handlers.StudentLogin@67cfa305, cancelbook=com.lms.training.web.handlers.GetCancelBook@3bbcd46e, adminregister=com.lms.training.web.handlers.AdminRegister@6500de10}
+ 2022-02-03 23:48:21 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-03 23:53:08 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@12560c51, deletestudent=com.lms.training.web.handlers.DeleteStudent@59180b9c, adminlogin=com.lms.training.web.handlers.AdminLogin@3dd58412, returnbook=com.lms.training.web.handlers.GetReturnBook@4a44d34d, deletebook=com.lms.training.web.handlers.DeleteBook@68526ad0, updatestudent=com.lms.training.web.handlers.UpdateStudent@718fc8ad, requestbook=com.lms.training.web.handlers.GetRequestBook@60eb379a, updatebook=com.lms.training.web.handlers.UpdateBook@c595e71, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@77a6b1c0, addbooks=com.lms.training.web.handlers.RegisterBooks@78e3c539, studentlogin=com.lms.training.web.handlers.StudentLogin@418d7a58, cancelbook=com.lms.training.web.handlers.GetCancelBook@7e10ece, adminregister=com.lms.training.web.handlers.AdminRegister@450b8743}
+ 2022-02-03 23:53:08 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-03 23:53:09 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-03 23:53:09 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-03 23:53:47 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-03 23:53:47 INFO com.lms.training.web.handlers.StudentLogin:36 - []
+ 2022-02-03 23:53:47 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login -1
+ 2022-02-03 23:54:02 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-03 23:54:02 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-03 23:54:02 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-03 23:55:13 INFO com.lms.mvc.MvcController:39 - requestbook
+ 2022-02-03 23:55:30 INFO com.lms.mvc.MvcController:39 - requestbook
+ 2022-02-03 23:55:42 INFO com.lms.mvc.MvcController:39 - requestbook
+ 2022-02-03 23:55:43 INFO com.lms.mvc.MvcController:39 - requestbook
+ 2022-02-03 23:56:02 INFO com.lms.mvc.MvcController:39 - requestbook
+ 2022-02-03 23:56:34 INFO com.lms.mvc.MvcController:39 - returnbook
+ 2022-02-03 23:56:56 INFO com.lms.mvc.MvcController:39 - returnbook
+ 2022-02-04 00:00:53 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:01:52 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:02:03 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@296b4cd6, deletestudent=com.lms.training.web.handlers.DeleteStudent@193ac4c9, adminlogin=com.lms.training.web.handlers.AdminLogin@2e10c9bf, returnbook=com.lms.training.web.handlers.GetReturnBook@6916da51, deletebook=com.lms.training.web.handlers.DeleteBook@1ae82659, updatestudent=com.lms.training.web.handlers.UpdateStudent@553ba541, requestbook=com.lms.training.web.handlers.GetRequestBook@7dcec368, updatebook=com.lms.training.web.handlers.UpdateBook@22d54ad2, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@79d47a3f, addbooks=com.lms.training.web.handlers.RegisterBooks@714dd9e9, studentlogin=com.lms.training.web.handlers.StudentLogin@7a13812b, cancelbook=com.lms.training.web.handlers.GetCancelBook@7218c761, adminregister=com.lms.training.web.handlers.AdminRegister@28474e9f}
+ 2022-02-04 00:02:03 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:02:28 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:03:00 INFO com.lms.mvc.MvcController:39 - Viewavailablebook
+ 2022-02-04 00:24:23 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:24:55 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:24:58 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:25:35 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:30:04 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:30:13 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:30:13 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:30:14 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:30:14 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:30:14 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:30:17 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:32:03 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:34:11 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:34:14 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:38:29 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:38:45 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 00:40:26 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 00:40:26 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 00:40:26 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 00:43:17 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 00:43:17 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 00:43:17 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 00:45:01 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 00:45:01 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 00:45:01 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 00:46:21 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 00:46:21 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 00:46:21 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 00:46:51 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 00:46:51 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 00:46:51 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 00:46:52 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 00:46:52 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 00:46:52 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 00:47:05 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 00:47:05 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 00:47:05 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 00:54:52 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@7ed7dcf6, deletestudent=com.lms.training.web.handlers.DeleteStudent@64e1671f, adminlogin=com.lms.training.web.handlers.AdminLogin@2ac318d8, returnbook=com.lms.training.web.handlers.GetReturnBook@118b6e92, deletebook=com.lms.training.web.handlers.DeleteBook@517b3039, updatestudent=com.lms.training.web.handlers.UpdateStudent@3e4d6c96, requestbook=com.lms.training.web.handlers.GetRequestBook@cfab65f, updatebook=com.lms.training.web.handlers.UpdateBook@464fa6ac, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@4ebdbca4, addbooks=com.lms.training.web.handlers.RegisterBooks@1bc15039, studentlogin=com.lms.training.web.handlers.StudentLogin@42d04550, cancelbook=com.lms.training.web.handlers.GetCancelBook@7911e160, adminregister=com.lms.training.web.handlers.AdminRegister@5a6a2a7a}
+ 2022-02-04 00:54:52 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-04 00:54:53 INFO com.lms.training.web.handlers.AdminLogin:35 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-04 00:54:53 INFO com.lms.training.web.handlers.AdminLogin:43 - Flag in login 0
+ 2022-02-04 00:56:46 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-04 00:56:46 INFO com.lms.training.web.handlers.AdminLogin:35 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-04 00:56:46 INFO com.lms.training.web.handlers.AdminLogin:43 - Flag in login 0
+ 2022-02-04 00:58:02 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-04 00:58:02 INFO com.lms.training.web.handlers.AdminLogin:35 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-04 00:58:02 INFO com.lms.training.web.handlers.AdminLogin:43 - Flag in login 0
+ 2022-02-04 09:51:35 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@50bd50fd, deletestudent=com.lms.training.web.handlers.DeleteStudent@16acb574, adminlogin=com.lms.training.web.handlers.AdminLogin@2f57273, returnbook=com.lms.training.web.handlers.GetReturnBook@18822c96, deletebook=com.lms.training.web.handlers.DeleteBook@2282bdc3, updatestudent=com.lms.training.web.handlers.UpdateStudent@5176bbf2, requestbook=com.lms.training.web.handlers.GetRequestBook@78b93d45, updatebook=com.lms.training.web.handlers.UpdateBook@71d65858, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@460d9f04, addbooks=com.lms.training.web.handlers.RegisterBooks@2240051c, studentlogin=com.lms.training.web.handlers.StudentLogin@13224704, cancelbook=com.lms.training.web.handlers.GetCancelBook@50f5c9a0, adminregister=com.lms.training.web.handlers.AdminRegister@7aaa9905}
+ 2022-02-04 09:51:35 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 09:51:36 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 09:51:36 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 09:51:46 INFO com.lms.mvc.MvcController:39 - studentlogout
+ 2022-02-04 09:53:21 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 09:53:21 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 09:53:21 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:02:32 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@33c2a158, deletestudent=com.lms.training.web.handlers.DeleteStudent@324bbfa8, adminlogin=com.lms.training.web.handlers.AdminLogin@62a5b9d2, returnbook=com.lms.training.web.handlers.GetReturnBook@607884a7, deletebook=com.lms.training.web.handlers.DeleteBook@46163191, updatestudent=com.lms.training.web.handlers.UpdateStudent@294f7004, requestbook=com.lms.training.web.handlers.GetRequestBook@66eb27d6, updatebook=com.lms.training.web.handlers.UpdateBook@4292ca10, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@35ffe16a, addbooks=com.lms.training.web.handlers.RegisterBooks@67e26881, studentlogin=com.lms.training.web.handlers.StudentLogin@5808263c, cancelbook=com.lms.training.web.handlers.GetCancelBook@c1ea567, adminregister=com.lms.training.web.handlers.AdminRegister@46a0f13f}
+ 2022-02-04 10:02:32 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:02:33 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:02:33 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:04:41 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:04:41 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:04:41 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:04:45 INFO com.lms.mvc.MvcController:39 - studentlogout
+ 2022-02-04 10:05:16 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:05:16 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:05:16 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:05:17 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:05:17 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:05:17 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:05:18 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:05:18 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:05:18 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:05:20 INFO com.lms.mvc.MvcController:39 - studentlogout
+ 2022-02-04 10:05:31 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:05:31 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:05:31 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:08:41 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@2aa82, deletestudent=com.lms.training.web.handlers.DeleteStudent@dce1c53, adminlogin=com.lms.training.web.handlers.AdminLogin@31c84f3b, returnbook=com.lms.training.web.handlers.GetReturnBook@75eea748, deletebook=com.lms.training.web.handlers.DeleteBook@602d55cd, updatestudent=com.lms.training.web.handlers.UpdateStudent@1d7cf11f, requestbook=com.lms.training.web.handlers.GetRequestBook@6ebed41c, updatebook=com.lms.training.web.handlers.UpdateBook@6eeaea64, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@64634949, addbooks=com.lms.training.web.handlers.RegisterBooks@1e6da8d3, studentlogin=com.lms.training.web.handlers.StudentLogin@6eb8136, cancelbook=com.lms.training.web.handlers.GetCancelBook@3febe245, adminregister=com.lms.training.web.handlers.AdminRegister@413ccdf0}
+ 2022-02-04 10:08:41 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:08:41 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:08:41 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:08:59 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:08:59 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:08:59 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:09:47 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:09:47 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:09:47 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:48:16 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@333c1b79, deletestudent=com.lms.training.web.handlers.DeleteStudent@2269ad32, adminlogin=com.lms.training.web.handlers.AdminLogin@234b721f, returnbook=com.lms.training.web.handlers.GetReturnBook@6256d989, deletebook=com.lms.training.web.handlers.DeleteBook@31e2f169, updatestudent=com.lms.training.web.handlers.UpdateStudent@5e0dda5a, requestbook=com.lms.training.web.handlers.GetRequestBook@26ae800e, updatebook=com.lms.training.web.handlers.UpdateBook@72608fc3, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@54af515f, addbooks=com.lms.training.web.handlers.RegisterBooks@64409e9a, studentlogin=com.lms.training.web.handlers.StudentLogin@36bcdcec, cancelbook=com.lms.training.web.handlers.GetCancelBook@40d4436f, adminregister=com.lms.training.web.handlers.AdminRegister@6e5fd783}
+ 2022-02-04 10:48:16 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:48:17 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:48:17 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:48:45 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:48:45 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:48:45 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:49:15 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:49:15 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:49:15 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:50:08 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:50:08 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:50:08 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:50:40 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:50:40 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:50:40 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:53:49 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 10:53:49 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 10:53:49 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 10:53:54 INFO com.lms.mvc.MvcController:39 - studentlogout
+ 2022-02-04 11:08:38 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@42c07970, deletestudent=com.lms.training.web.handlers.DeleteStudent@1b47d3c8, adminlogin=com.lms.training.web.handlers.AdminLogin@73c89cc0, returnbook=com.lms.training.web.handlers.GetReturnBook@63a568c2, deletebook=com.lms.training.web.handlers.DeleteBook@22ef863f, updatestudent=com.lms.training.web.handlers.UpdateStudent@713d839, requestbook=com.lms.training.web.handlers.GetRequestBook@308a7a87, updatebook=com.lms.training.web.handlers.UpdateBook@78a1e72c, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@26a15879, addbooks=com.lms.training.web.handlers.RegisterBooks@3f6a9e84, studentlogin=com.lms.training.web.handlers.StudentLogin@5c5785ac, cancelbook=com.lms.training.web.handlers.GetCancelBook@2b38918d, adminregister=com.lms.training.web.handlers.AdminRegister@7767603}
+ 2022-02-04 11:08:38 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:08:39 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:08:39 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:09:53 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:09:53 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:09:53 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:09:55 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:09:55 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:09:55 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:11:36 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@6f44b10c, deletestudent=com.lms.training.web.handlers.DeleteStudent@19744622, adminlogin=com.lms.training.web.handlers.AdminLogin@23e29ca, returnbook=com.lms.training.web.handlers.GetReturnBook@484e0c0e, deletebook=com.lms.training.web.handlers.DeleteBook@24818da, updatestudent=com.lms.training.web.handlers.UpdateStudent@39361be7, requestbook=com.lms.training.web.handlers.GetRequestBook@4ab50572, updatebook=com.lms.training.web.handlers.UpdateBook@72a35e56, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@30ef1610, addbooks=com.lms.training.web.handlers.RegisterBooks@390fcac9, studentlogin=com.lms.training.web.handlers.StudentLogin@5b73d60f, cancelbook=com.lms.training.web.handlers.GetCancelBook@334a62d9, adminregister=com.lms.training.web.handlers.AdminRegister@7bddad36}
+ 2022-02-04 11:11:36 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:11:37 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:11:37 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:17:31 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@6de58d0a, deletestudent=com.lms.training.web.handlers.DeleteStudent@3a7eea89, adminlogin=com.lms.training.web.handlers.AdminLogin@7789ea72, returnbook=com.lms.training.web.handlers.GetReturnBook@53c1b9f1, deletebook=com.lms.training.web.handlers.DeleteBook@120df35e, updatestudent=com.lms.training.web.handlers.UpdateStudent@5f6a6934, requestbook=com.lms.training.web.handlers.GetRequestBook@6788d2d1, updatebook=com.lms.training.web.handlers.UpdateBook@3958f1e0, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@44326296, addbooks=com.lms.training.web.handlers.RegisterBooks@489d90ed, studentlogin=com.lms.training.web.handlers.StudentLogin@6922dd75, cancelbook=com.lms.training.web.handlers.GetCancelBook@170be640, adminregister=com.lms.training.web.handlers.AdminRegister@407a10e5}
+ 2022-02-04 11:17:31 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:17:31 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:17:31 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:17:34 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:17:34 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:17:34 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:17:49 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:17:49 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:17:49 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:37:54 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@6826c308, deletestudent=com.lms.training.web.handlers.DeleteStudent@75fa4297, adminlogin=com.lms.training.web.handlers.AdminLogin@6b8c2a4a, returnbook=com.lms.training.web.handlers.GetReturnBook@618dd53d, deletebook=com.lms.training.web.handlers.DeleteBook@3fed7487, updatestudent=com.lms.training.web.handlers.UpdateStudent@18247717, requestbook=com.lms.training.web.handlers.GetRequestBook@1270c023, updatebook=com.lms.training.web.handlers.UpdateBook@1ddbdb6d, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@4946cd1d, addbooks=com.lms.training.web.handlers.RegisterBooks@726197ed, studentlogin=com.lms.training.web.handlers.StudentLogin@6684205a, cancelbook=com.lms.training.web.handlers.GetCancelBook@25c79f54, adminregister=com.lms.training.web.handlers.AdminRegister@5a9690d4}
+ 2022-02-04 11:37:54 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:37:54 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:37:54 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:37:54 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:37:54 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:37:54 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:41:48 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:41:48 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:41:48 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:46:41 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:46:41 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:46:41 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:47:41 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@63298dfc, deletestudent=com.lms.training.web.handlers.DeleteStudent@324589ac, adminlogin=com.lms.training.web.handlers.AdminLogin@7d992999, returnbook=com.lms.training.web.handlers.GetReturnBook@3e9a9f83, deletebook=com.lms.training.web.handlers.DeleteBook@1173a3c1, updatestudent=com.lms.training.web.handlers.UpdateStudent@fe540aa, requestbook=com.lms.training.web.handlers.GetRequestBook@3b84652e, updatebook=com.lms.training.web.handlers.UpdateBook@5188835a, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@5d694f01, addbooks=com.lms.training.web.handlers.RegisterBooks@782ca416, studentlogin=com.lms.training.web.handlers.StudentLogin@60991328, cancelbook=com.lms.training.web.handlers.GetCancelBook@751ede32, adminregister=com.lms.training.web.handlers.AdminRegister@629886d7}
+ 2022-02-04 11:47:41 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:47:42 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:47:42 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:47:57 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@29a7cc0a, deletestudent=com.lms.training.web.handlers.DeleteStudent@6e86aa7d, adminlogin=com.lms.training.web.handlers.AdminLogin@63cffc9d, returnbook=com.lms.training.web.handlers.GetReturnBook@ff82305, deletebook=com.lms.training.web.handlers.DeleteBook@18a8796c, updatestudent=com.lms.training.web.handlers.UpdateStudent@43a6fd46, requestbook=com.lms.training.web.handlers.GetRequestBook@5f91cabb, updatebook=com.lms.training.web.handlers.UpdateBook@11bf2a47, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@4a074205, addbooks=com.lms.training.web.handlers.RegisterBooks@3e3fcace, studentlogin=com.lms.training.web.handlers.StudentLogin@6f2a1ba0, cancelbook=com.lms.training.web.handlers.GetCancelBook@7aff910, adminregister=com.lms.training.web.handlers.AdminRegister@77c8948a}
+ 2022-02-04 11:47:57 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:47:57 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:47:57 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:51:11 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@3148d191, deletestudent=com.lms.training.web.handlers.DeleteStudent@59256df6, adminlogin=com.lms.training.web.handlers.AdminLogin@f3eb281, returnbook=com.lms.training.web.handlers.GetReturnBook@1c30c088, deletebook=com.lms.training.web.handlers.DeleteBook@6b034ec6, updatestudent=com.lms.training.web.handlers.UpdateStudent@193bd48d, requestbook=com.lms.training.web.handlers.GetRequestBook@63ebc791, updatebook=com.lms.training.web.handlers.UpdateBook@79c57fe4, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@8c17b64, addbooks=com.lms.training.web.handlers.RegisterBooks@4f99594d, studentlogin=com.lms.training.web.handlers.StudentLogin@7273d860, cancelbook=com.lms.training.web.handlers.GetCancelBook@201ba395, adminregister=com.lms.training.web.handlers.AdminRegister@2302f6a9}
+ 2022-02-04 11:51:11 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:51:14 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:51:14 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:51:49 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:51:49 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:51:49 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:51:53 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@58ede564, deletestudent=com.lms.training.web.handlers.DeleteStudent@2fb628fd, adminlogin=com.lms.training.web.handlers.AdminLogin@2384b09a, returnbook=com.lms.training.web.handlers.GetReturnBook@6a32f2ed, deletebook=com.lms.training.web.handlers.DeleteBook@5dc3ec0a, updatestudent=com.lms.training.web.handlers.UpdateStudent@432cc68f, requestbook=com.lms.training.web.handlers.GetRequestBook@45aabe10, updatebook=com.lms.training.web.handlers.UpdateBook@387289d2, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@7a13916a, addbooks=com.lms.training.web.handlers.RegisterBooks@5fae2819, studentlogin=com.lms.training.web.handlers.StudentLogin@4fe447c2, cancelbook=com.lms.training.web.handlers.GetCancelBook@63746bf5, adminregister=com.lms.training.web.handlers.AdminRegister@58a2e30}
+ 2022-02-04 11:51:53 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:51:53 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:51:53 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:56:12 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@dd78d2b, deletestudent=com.lms.training.web.handlers.DeleteStudent@427b9214, adminlogin=com.lms.training.web.handlers.AdminLogin@51ed9f06, returnbook=com.lms.training.web.handlers.GetReturnBook@5ec46ba5, deletebook=com.lms.training.web.handlers.DeleteBook@6f4b1b83, updatestudent=com.lms.training.web.handlers.UpdateStudent@71bedf4c, requestbook=com.lms.training.web.handlers.GetRequestBook@4c967bd2, updatebook=com.lms.training.web.handlers.UpdateBook@31f2b8a6, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@6d22a18, addbooks=com.lms.training.web.handlers.RegisterBooks@191c131, studentlogin=com.lms.training.web.handlers.StudentLogin@7ea6723a, cancelbook=com.lms.training.web.handlers.GetCancelBook@5a35d2c0, adminregister=com.lms.training.web.handlers.AdminRegister@4da0b174}
+ 2022-02-04 11:56:12 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:56:12 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:56:12 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:56:21 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:56:21 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:56:21 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:56:22 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:56:22 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:56:22 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:56:46 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:56:46 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:56:46 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:58:14 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@37f3d2ec, deletestudent=com.lms.training.web.handlers.DeleteStudent@188503d1, adminlogin=com.lms.training.web.handlers.AdminLogin@53cd2822, returnbook=com.lms.training.web.handlers.GetReturnBook@3cad572f, deletebook=com.lms.training.web.handlers.DeleteBook@15e096e4, updatestudent=com.lms.training.web.handlers.UpdateStudent@25cb9402, requestbook=com.lms.training.web.handlers.GetRequestBook@1ffd24a1, updatebook=com.lms.training.web.handlers.UpdateBook@493f0c5e, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@58f9e42b, addbooks=com.lms.training.web.handlers.RegisterBooks@21eb10b2, studentlogin=com.lms.training.web.handlers.StudentLogin@5745f002, cancelbook=com.lms.training.web.handlers.GetCancelBook@66a94b48, adminregister=com.lms.training.web.handlers.AdminRegister@7166230a}
+ 2022-02-04 11:58:14 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:58:14 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:58:14 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 11:58:57 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 11:58:57 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 11:58:57 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 12:01:29 INFO com.lms.mvc.MvcController:39 - requestbook
+ 2022-02-04 12:01:54 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-04 12:01:54 INFO com.lms.training.web.handlers.AdminLogin:35 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-04 12:01:54 INFO com.lms.training.web.handlers.AdminLogin:43 - Flag in login 0
+ 2022-02-04 12:02:21 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 12:02:37 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 12:03:22 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 12:03:47 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 12:05:33 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@749c96e0, deletestudent=com.lms.training.web.handlers.DeleteStudent@7f45a53a, adminlogin=com.lms.training.web.handlers.AdminLogin@3ed20513, returnbook=com.lms.training.web.handlers.GetReturnBook@74381d06, deletebook=com.lms.training.web.handlers.DeleteBook@6403bef7, updatestudent=com.lms.training.web.handlers.UpdateStudent@363dbb38, requestbook=com.lms.training.web.handlers.GetRequestBook@1869ca71, updatebook=com.lms.training.web.handlers.UpdateBook@2c8d3457, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@5580c337, addbooks=com.lms.training.web.handlers.RegisterBooks@e3f46c4, studentlogin=com.lms.training.web.handlers.StudentLogin@58532f30, cancelbook=com.lms.training.web.handlers.GetCancelBook@1d3997e1, adminregister=com.lms.training.web.handlers.AdminRegister@4e73660a}
+ 2022-02-04 12:05:33 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 12:07:33 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@73ea8b46, deletestudent=com.lms.training.web.handlers.DeleteStudent@28867db, adminlogin=com.lms.training.web.handlers.AdminLogin@26eaa33d, returnbook=com.lms.training.web.handlers.GetReturnBook@59154f55, deletebook=com.lms.training.web.handlers.DeleteBook@7e824f8a, updatestudent=com.lms.training.web.handlers.UpdateStudent@3ff5493e, requestbook=com.lms.training.web.handlers.GetRequestBook@4c75e6b6, updatebook=com.lms.training.web.handlers.UpdateBook@3fe9778a, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@537b91e2, addbooks=com.lms.training.web.handlers.RegisterBooks@46d29e0a, studentlogin=com.lms.training.web.handlers.StudentLogin@25f18030, cancelbook=com.lms.training.web.handlers.GetCancelBook@51d0f623, adminregister=com.lms.training.web.handlers.AdminRegister@5eab897a}
+ 2022-02-04 12:07:33 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 12:10:12 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@ed1bb53, deletestudent=com.lms.training.web.handlers.DeleteStudent@528bc3e8, adminlogin=com.lms.training.web.handlers.AdminLogin@4042a085, returnbook=com.lms.training.web.handlers.GetReturnBook@690d8998, deletebook=com.lms.training.web.handlers.DeleteBook@6a05acc9, updatestudent=com.lms.training.web.handlers.UpdateStudent@661db6e2, requestbook=com.lms.training.web.handlers.GetRequestBook@338e642c, updatebook=com.lms.training.web.handlers.UpdateBook@36ca6a8c, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@71eeeb78, addbooks=com.lms.training.web.handlers.RegisterBooks@7a4fe901, studentlogin=com.lms.training.web.handlers.StudentLogin@3aa04d60, cancelbook=com.lms.training.web.handlers.GetCancelBook@5f5bdeb2, adminregister=com.lms.training.web.handlers.AdminRegister@59e84b0a}
+ 2022-02-04 12:10:12 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 12:10:30 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@29e046b4, deletestudent=com.lms.training.web.handlers.DeleteStudent@6f0e3819, adminlogin=com.lms.training.web.handlers.AdminLogin@8673688, returnbook=com.lms.training.web.handlers.GetReturnBook@71265f8e, deletebook=com.lms.training.web.handlers.DeleteBook@5ad872f8, updatestudent=com.lms.training.web.handlers.UpdateStudent@4408574a, requestbook=com.lms.training.web.handlers.GetRequestBook@756aea35, updatebook=com.lms.training.web.handlers.UpdateBook@36731139, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@2f25fabd, addbooks=com.lms.training.web.handlers.RegisterBooks@29115a14, studentlogin=com.lms.training.web.handlers.StudentLogin@b082641, cancelbook=com.lms.training.web.handlers.GetCancelBook@25dc04c0, adminregister=com.lms.training.web.handlers.AdminRegister@25ace2d4}
+ 2022-02-04 12:10:30 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 12:10:39 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 12:10:39 INFO com.lms.training.web.handlers.StudentRegister:48 - Student already registered
+ 2022-02-04 12:10:45 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 12:10:45 INFO com.lms.training.web.handlers.StudentRegister:48 - Student already registered
+ 2022-02-04 12:11:02 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 12:13:05 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@6a771250, deletestudent=com.lms.training.web.handlers.DeleteStudent@24cf6def, adminlogin=com.lms.training.web.handlers.AdminLogin@4dd8a61b, returnbook=com.lms.training.web.handlers.GetReturnBook@6b2d634b, deletebook=com.lms.training.web.handlers.DeleteBook@399a09ec, updatestudent=com.lms.training.web.handlers.UpdateStudent@6665ab25, requestbook=com.lms.training.web.handlers.GetRequestBook@6e05218c, updatebook=com.lms.training.web.handlers.UpdateBook@6eb2203c, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@70e816f, addbooks=com.lms.training.web.handlers.RegisterBooks@4cf92e28, studentlogin=com.lms.training.web.handlers.StudentLogin@bb76f7a, cancelbook=com.lms.training.web.handlers.GetCancelBook@747b1df0, adminregister=com.lms.training.web.handlers.AdminRegister@78defe9}
+ 2022-02-04 12:13:05 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 12:20:25 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 12:20:25 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=2, studentpassword=anil, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 12:20:25 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 14:07:30 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@53694730, deletestudent=com.lms.training.web.handlers.DeleteStudent@3bda222c, adminlogin=com.lms.training.web.handlers.AdminLogin@67766272, returnbook=com.lms.training.web.handlers.GetReturnBook@41b42e6d, deletebook=com.lms.training.web.handlers.DeleteBook@587db1ac, updatestudent=com.lms.training.web.handlers.UpdateStudent@32dc23cd, requestbook=com.lms.training.web.handlers.GetRequestBook@666da216, updatebook=com.lms.training.web.handlers.UpdateBook@64a2ff0, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@338f1e44, addbooks=com.lms.training.web.handlers.RegisterBooks@601e81b3, studentlogin=com.lms.training.web.handlers.StudentLogin@6b68f2b4, cancelbook=com.lms.training.web.handlers.GetCancelBook@3c8a7586, adminregister=com.lms.training.web.handlers.AdminRegister@773c316d}
+ 2022-02-04 14:07:30 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 14:07:32 INFO com.lms.training.web.handlers.StudentLogin:36 - []
+ 2022-02-04 14:07:32 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login -1
+ 2022-02-04 14:07:38 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 14:07:38 INFO com.lms.training.web.handlers.StudentLogin:36 - []
+ 2022-02-04 14:07:38 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login -1
+ 2022-02-04 18:20:57 INFO com.lms.mvc.MvcController:26 - {studentregister=com.lms.training.web.handlers.StudentRegister@654e74bf, deletestudent=com.lms.training.web.handlers.DeleteStudent@6316d81e, adminlogin=com.lms.training.web.handlers.AdminLogin@498840b9, returnbook=com.lms.training.web.handlers.GetReturnBook@458a0a91, deletebook=com.lms.training.web.handlers.DeleteBook@53777513, updatestudent=com.lms.training.web.handlers.UpdateStudent@674914b, requestbook=com.lms.training.web.handlers.GetRequestBook@d7294b4, updatebook=com.lms.training.web.handlers.UpdateBook@1839d909, Viewavailablebook=com.lms.training.web.handlers.viewAvailablebooks@708ee8f0, addbooks=com.lms.training.web.handlers.RegisterBooks@52d2d163, studentlogin=com.lms.training.web.handlers.StudentLogin@4b1c28b9, cancelbook=com.lms.training.web.handlers.GetCancelBook@1d3b5142, adminregister=com.lms.training.web.handlers.AdminRegister@1af5f37d}
+ 2022-02-04 18:20:57 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-04 18:21:01 INFO com.lms.training.web.handlers.AdminLogin:35 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-04 18:21:01 INFO com.lms.training.web.handlers.AdminLogin:43 - Flag in login 0
+ 2022-02-04 18:23:47 INFO com.lms.mvc.MvcController:39 - addbooks
+ 2022-02-04 18:24:31 INFO com.lms.mvc.MvcController:39 - updatebook
+ 2022-02-04 18:25:10 INFO com.lms.mvc.MvcController:39 - deletebook
+ 2022-02-04 18:26:39 INFO com.lms.mvc.MvcController:39 - studentregister
+ 2022-02-04 18:27:13 INFO com.lms.mvc.MvcController:39 - studentlogin
+ 2022-02-04 18:27:13 INFO com.lms.training.web.handlers.StudentLogin:36 - [Student [studentid=111, studentpassword=abc, studentroleid=0, studentemailid=null, studentcontactnumber=null]]
+ 2022-02-04 18:27:13 INFO com.lms.training.web.handlers.StudentLogin:44 - Flag in login 0
+ 2022-02-04 18:27:30 INFO com.lms.mvc.MvcController:39 - Viewavailablebook
+ 2022-02-04 18:29:34 INFO com.lms.mvc.MvcController:39 - requestbook
+ 2022-02-04 18:31:00 INFO com.lms.mvc.MvcController:39 - returnbook
+ 2022-02-04 18:31:46 INFO com.lms.mvc.MvcController:39 - returnbook
+ 2022-02-04 18:32:27 INFO com.lms.mvc.MvcController:39 - cancelbook
+ 2022-02-04 18:35:00 INFO com.lms.mvc.MvcController:39 - adminlogin
+ 2022-02-04 18:35:00 INFO com.lms.training.web.handlers.AdminLogin:35 - [Admin [adminid=12345, adminpassword=NttData@12345, adminroleid=0, adminemailid=null, admincontactnumber=null], Admin [adminid=12345, adminpassword=anil, adminroleid=0, adminemailid=null, admincontactnumber=null]]
+ 2022-02-04 18:35:00 INFO com.lms.training.web.handlers.AdminLogin:43 - Flag in login 0
+ 
